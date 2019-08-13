@@ -17,12 +17,12 @@ red="\033[1;31m"
 clear
 figlet Yogs TooLs | lolcat
 sleep 1
-echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $white •" |lolcat
-echo "• Tools    : Kumpulan Yogs Tools                       $white •" |lolcat
-echo "• Creadby  : Yoga Sugama                               $white •" |lolcat
-echo "•    • •                                                $white •" |lolcat
-echo "•     ^                           Cyber School YP IPPI  $white •" |lolcat
-echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $white •" |lolcat                                                                        
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $white " |lolcat
+echo "• Tools    : Kumpulan Yogs Tools                     $white •" |lolcat
+echo "• Creadby  : Yoga Sugama                             $white •" |lolcat
+echo "•    • •                                             $white •" |lolcat
+echo "•     ^                         Cyber School YP IPPI $white •" |lolcat
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $white " |lolcat                                                                        
 ###################################################
 # CTRL + C
 ###################################################
@@ -42,19 +42,19 @@ lagi=1
 while [ $lagi -lt 6 ];
 do
 echo ""
-echo $b "1.  Nmap${enda}";
+echo $b "1.  Nmap ${enda}";
 echo "============================" | lolcat
-echo $r "2.  Admin-finder${endc}";
+echo $r "2.  Admin-finder ${endc}";
 echo "============================" | lolcat
-echo $g "3.  RED_HAWK${endc}";
+echo $g "3.  RED_HAWK ${endc}";
 echo "============================" | lolcat
-echo $c "4   Lazymux${endc}";
+echo $c "4   Lazymux ${endc}";
 echo "============================" | lolcat
-echo $r "5.  Tools-X${endc}";
+echo $r "5.  Tools-X ${endc}";
 echo "============================" | lolcat
-echo $r "6. Exit${endc}";
+echo $r "6.  Exit ${endc}";
 echo ""
-echo "╭─Mr.yM" |lolcat
+echo "╭─Yogs Gans" |lolcat
 read -p "╰─#" pil;
 
 # Nmap
