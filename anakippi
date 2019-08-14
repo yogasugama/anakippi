@@ -17,12 +17,12 @@ red="\033[1;31m"
 clear
 figlet Yogs TooLs | lolcat
 sleep 1
-echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $white " |lolcat
-echo "• Tools    : Kumpulan Yogs Tools                     $white •" |lolcat
-echo "• Creadby  : Yoga Sugama                             $white •" |lolcat
-echo "•    • •                                             $white •" |lolcat
-echo "•     ^                         Cyber School YP IPPI $white •" |lolcat
-echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $white " |lolcat                                                                        
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $white •" |lolcat
+echo "• Tools    : Kumpulan Yogs Tools                       $white  •" |lolcat
+echo "• Creadby  : Yoga Sugama                               $white  •" |lolcat
+echo "•    • •                                                $white •" |lolcat
+echo "•     ^                           Cyber School YP IPPI  $white •" |lolcat
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $white •" |lolcat                                                                        
 ###################################################
 # CTRL + C
 ###################################################
@@ -50,9 +50,9 @@ echo $g "3.  RED_HAWK ${endc}";
 echo "============================" | lolcat
 echo $c "4   Lazymux ${endc}";
 echo "============================" | lolcat
-echo $r "5.  Tools-X ${endc}";
+echo $r  "5.  Tools-X ${endc}";
 echo "============================" | lolcat
-echo $r "6.  Exit ${endc}";
+echo $r  "6. Exit ${endc}";
 echo ""
 echo "╭─Yogs Gans" |lolcat
 read -p "╰─#" pil;
